@@ -1,0 +1,21 @@
+h1 {
+    font-family: Segoe UI;
+    font-size: 42px;
+    color: #e3dbc8;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+p.post {
+    font-family: Segoe UI;
+    font-size: 18px;
+    color: #e3dbc8;
+    margin-top: 60px;
+}
+
+p.footer {
+    font-family: Segoe UI;
+    font-size: 12px;
+    color: #e3dbc8;
+}
